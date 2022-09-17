@@ -2,7 +2,14 @@
 
 ## Introduction
 
-Welcome to our class repository! This will hold all of our class lectures, demo code, and workshops. More information will be coming soon, but in the meantime please feel free to look through the links for information to get you started:
+Welcome to our class repository! This will hold all of our class lectures, demo code, and workshops. More information will be coming soon, but in the meantime please feel free to look through the links for information to get you started.
+
+## Cohort Information
+
+Instructor: Marc Fisher
+Mentor: Samantha Flagler
+
+Monday/Wednesday/Thursday: 6:30CST
 
 ## Resources
 
