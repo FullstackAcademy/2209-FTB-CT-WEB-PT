@@ -21,7 +21,7 @@ Monday/Wednesday/Thursday: 6:30CST
 
   - [**VSCode Live Share**](https://code.visualstudio.com/learn/collaboration/live-share)
 
-- [**Project Submission Form**](https://docs.google.com/forms/d/187d3TF5U2TM45HBkRgdUjZRk_ufIaUY6wyPp2CNFU0g/edit?usp=sharing)
+- [**Phase 1 Syllabus**](https://docs.google.com/document/d/1l8SHhSmw_hsIvZd2LTWonow9akzmECh0wrQNgziY8xE/edit?usp=sharing)
 
 
 ## REACTO and Interview Prep Resources:
