@@ -23,6 +23,7 @@ Monday/Wednesday/Thursday: 6:30CST
 
 - [**Phase 1 Syllabus**](https://docs.google.com/document/d/1l8SHhSmw_hsIvZd2LTWonow9akzmECh0wrQNgziY8xE/edit?usp=sharing)
 
+- [**Project Submission Form**](https://docs.google.com/forms/d/1wcnSO5CBaaXOPwJCmftFm2s1hP-qvra41mzU-GflrHI)
 
 ## REACTO and Interview Prep Resources:
 
