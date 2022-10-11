@@ -6,7 +6,8 @@ Welcome to our class repository! This will hold all of our class lectures, demo 
 
 ## Cohort Information
 
-Instructor: Marc Fisher
+Instructor: ~~Marc Fisher~~ ~~Jeff Yen~~ Steve Zelek
+
 Mentor: Samantha Flagler
 
 Monday/Wednesday/Thursday: 6:30CST
