@@ -6,7 +6,7 @@ Welcome to our class repository! This will hold all of our class lectures, demo 
 
 ## Cohort Information
 
-Instructor: ~~Marc Fisher~~ ~~Jeff Yen~~ Steve Zelek
+Instructor: ~~Marc Fisher~~ Jeff Yen (Coming Soon: Steve Zelek)
 
 Mentor: Samantha Flagler
 
