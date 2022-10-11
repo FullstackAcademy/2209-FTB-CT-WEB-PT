@@ -1,0 +1,95 @@
+body {
+  font-family: lato, arial, sans-serif;
+  background-color:plum;
+  margin: 0;
+  padding: 0 2vw;
+}
+
+body > * {
+  padding: 10px;
+}
+
+
+header {
+  text-align: right;
+  font-weight: 600;
+  background-color: blanchedalmond;
+}
+
+header a {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+header a:first-child:focus {
+  color: purple;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: green;
+}
+
+
+footer {
+  text-align: right;
+  background-color:wheat;
+}
+
+footer a {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+
+main {
+  background-color:olive;
+}
+
+aside {
+  background-color: bisque;
+  color: black;
+  width: 300px;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+
+ol li {
+  color: blueviolet;
+  margin: 2px;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.food-pic {
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  border: 2px solid rgba(0,0,0,.3);
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  height: 800px;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+section .food-item {
+  flex-grow: 1;
+}
+
+section .food-item:not(:nth-child(3)) {
+  border: 5px solid red;
+}
+
+
+

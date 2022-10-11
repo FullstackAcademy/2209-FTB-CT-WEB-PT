@@ -1,0 +1,55 @@
+body {
+  font-family: lato, arial, sans-serif;
+  background-color: lightgreen;
+}
+
+header {
+  text-align: center;
+  font-weight: 600;
+}
+
+main {
+  background-color: lightblue;
+}
+
+aside {
+  background-color: bisque;
+  color: black;
+  width: 300px;
+}
+
+nav {
+  background-color: lightcoral;
+}
+
+ul li, ol li {
+  list-style-type: decimal;
+  display: inline-block;
+  color: blueviolet;
+  margin: 5px;
+}
+
+ol li {
+  list-style-type: lower-greek;
+  margin: 2px;
+}
+
+img {
+  height: 10vw;
+  width: 10vw;
+  object-fit: cover;
+  border: 5px solid red;
+}
+
+a:hover > img {
+  border-color: green;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: green;
+}
